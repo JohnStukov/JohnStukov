@@ -26,9 +26,9 @@ Full-time **computer systems engineering student** ([ITSJR]())🧑‍🎓🎓.
         <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Ignis-Divine&theme=monokai"
             alt="Ignis-Divine's Github commit streak">
     </a>
-    <a href="wakatime.com/@Lilium/">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ignis-Divine&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
-            alt="Ignis-Divine's wakatime last year stats">
+    <a href="#">
+        <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignis-Divine&layout=compact&theme=monokai"
+            alt="Ignis-Divine's Most use languages">
     </a>
 </div>
 
