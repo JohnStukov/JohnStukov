@@ -1,16 +1,52 @@
 ### Hi there 👋
 
-<!--
-**Ignis-Divine/Ignis-Divine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm **[Juan Salomón Sains Hernández](https://juan-sains.sytes.net)**! 👋
 
-Here are some ideas to get you started:
+Full-time **computer systems engineering student** ([ITSJR]())🧑‍🎓🎓.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🔭 I’m currently working on my engineer's degree.
+- 🌱 I’m currently learning Golang ...
+- 👯 I’m looking to start a brand-new project/idea ...
+- 🤔 I’m looking for help finding a job while I finish up my university degree.
+- 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas! ...
+- ⚡ Fun fact: Others turn coffee into code; I prefer play electric bass...
+
+---
+
+## **📊 Stats**
+
+<div align="center" style="text-align:center">
+    <a href="#">
+        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=Ignis-Divine&show_icons=true&theme=monokai&count_private=true"
+            alt="Ignis-Divine's Github stats">
+    </a>
+    <a href="#">
+        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Ignis-Divine&theme=monokai"
+            alt="Ignis-Divine's Github commit streak">
+    </a>
+    <a href="wakatime.com/@Lilium/">
+        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ignis-Divine&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
+            alt="Ignis-Divine's wakatime last year stats">
+    </a>
+</div>
+
+---
+
+## **📫 How to reach me**
+
+<div align="center" style="text-align:center">
+    <a href="mailto:jsainshernandez@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
+            alt="Ignis-Divine's Gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/juan-sains/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="Ignis-Divine's LinkedIn">
+    </a>
+    <a href="https://octolife.vercel.app/Ignis-Divine">
+        <img src="https://img.shields.io/badge/OctoLife-333?style=for-the-badge&logo=github&logoColor=white"
+            alt="Ignis-Divine's octolife">
+    </a>
+</div>
