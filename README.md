@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi there, I'm **[Juan Salomón Sains Hernández](https://juan-sains.sytes.net)**! 👋
 
 <!-- Full-time **computer systems engineering student** ([ITSJR]())🧑‍🎓🎓. -->
