@@ -25,7 +25,7 @@
             alt="Ignis-Divine's Github commit streak">
     </a>
     <a href="#">
-        <img width="40%" src=""
+        <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignis-Divine&layout=compact&theme=monokai"
             alt="Ignis-Divine's Most use languages">
     </a>
 </div>
