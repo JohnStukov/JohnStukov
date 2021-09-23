@@ -14,15 +14,15 @@
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=Ignis-Divine&show_icons=true&theme=monokai&count_private=true"
+        <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=Liiliium&show_icons=true&theme=monokai&count_private=true"
             alt="Ignis-Divine's Github stats">
     </a>
     <a href="#">
-        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Ignis-Divine&theme=monokai"
+        <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Liiliium&theme=monokai"
             alt="Ignis-Divine's Github commit streak">
     </a>
     <a href="#">
-        <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignis-Divine&theme=monokai"
+        <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liiliium&theme=monokai"
             alt="Ignis-Divine's Most use languages">
     </a>
 </div>
