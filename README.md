@@ -1,12 +1,10 @@
-# Hi there, I'm **[Juan Salomón Sains Hernández](https://juan-sains.sytes.net)**! 👋
-
-<!-- Full-time **computer systems engineering student** ([ITSJR]())🧑‍🎓🎓. -->
+# Hi there, I'm **[Juan Salomón Sains Hernández](https://www.eldeveloper.mx)**! 👋
 
 ---
 
-- 🔭 I’m currently working on my engineer's degree.
-- 🌱 I’m currently learning Golang ...
-- ⚡ ...
+- 🔭 API - Back-End web developer ...
+- 🌱 Linux server administration ...
+- ⚡ Administration and implementation of Docker containers ...
 
 ---
 
@@ -15,15 +13,15 @@
 <div align="center" style="text-align:center">
     <a href="#">
         <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=Liiliium&show_icons=true&theme=monokai&count_private=true"
-            alt="Ignis-Divine's Github stats">
+            alt="Liiliium's Github stats">
     </a>
     <a href="#">
         <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Liiliium&theme=monokai"
-            alt="Ignis-Divine's Github commit streak">
+            alt="Liiliium's Github commit streak">
     </a>
     <a href="#">
         <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liiliium&theme=monokai"
-            alt="Ignis-Divine's Most use languages">
+            alt="Liiliium's Most use languages">
     </a>
 </div>
 
@@ -40,7 +38,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Ignis-Divine's LinkedIn">
     </a>
-    <a href="https://octolife.vercel.app/Ignis-Divine">
+    <a href="https://octolife.vercel.app/Liiliium">
         <img src="https://img.shields.io/badge/OctoLife-333?style=for-the-badge&logo=github&logoColor=white"
             alt="Ignis-Divine's octolife">
     </a>
