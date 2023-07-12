@@ -26,20 +26,3 @@
 </div>
 
 ---
-
-## **📫 How to reach me**
-
-<div align="center" style="text-align:center">
-    <a href="mailto:jsainshernandez@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
-            alt="Ignis-Divine's Gmail">
-    </a>
-    <a href="https://www.linkedin.com/in/juan-sains/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="Ignis-Divine's LinkedIn">
-    </a>
-    <a href="https://octolife.vercel.app/Liiliium">
-        <img src="https://img.shields.io/badge/OctoLife-333?style=for-the-badge&logo=github&logoColor=white"
-            alt="Ignis-Divine's octolife">
-    </a>
-</div>
